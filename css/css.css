@@ -1,0 +1,33 @@
+.middle{
+	width:50%;
+	margin: 0 auto;
+	background-color: #ff9191;
+
+}
+.bubble{
+	display: inline-block;
+	margin-bottom:6px;
+	box-sizing: border-box;
+	padding: 5px 5px 5px;
+	border-radius: 9px;
+	max-width: 50%;
+}
+.right{
+	object-position: right;
+	background-color: #afcbf7;
+	text-align: right;
+	border-top-right-radius: 0px;
+	float: right;
+}
+.left{
+	object-position: left;
+	background-color: #c3c5ca;
+	text-align: left;
+	border-top-left-radius: 0px;
+	float: left;
+}
+.bloco{
+	width: 100%;
+	background-color: #fff;
+	margin:5%;
+}
